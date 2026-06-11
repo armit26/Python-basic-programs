@@ -4,7 +4,7 @@ This repository contains basic Python programs created while practicing programm
 
 ## Programs Included
 
-* Multiplication Table
+* Password Strength Checker
 * Even or Odd Checker
 * Compare Numbers
 * Rock Paper Scissors Game
@@ -15,8 +15,11 @@ This repository contains basic Python programs created while practicing programm
 * User Input
 * Conditional Statements (if/elif/else)
 * Loops
-* Functions
+* String Methods
+* Boolean Variables
 * Random Module
-* Basic Problem Solving
+* Basic Password Validation
+* Problem Solving
 
-More programs will be added as I continue learning Python.
+More programs will be added as I continue learning Python and Computer Science fundamentals.
+
