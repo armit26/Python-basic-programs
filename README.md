@@ -6,7 +6,6 @@ This repository contains Python programs and mini-projects created while practic
 
 * Even or Odd Checker
 * Compare Numbers
-* Multiplication Table
 * Rock Paper Scissors Game
 * Password Strength Checker
 * ATM Simulator
@@ -16,8 +15,8 @@ This repository contains Python programs and mini-projects created while practic
 
 * Variables
 * User Input
-* Conditional Statements (`if/elif/else`)
-* Loops (`while` and `for`)
+* Conditional Statements
+* Loops 
 * String Methods
 * Boolean Variables
 * Random Module
